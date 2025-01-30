@@ -1,11 +1,10 @@
-#📊 Personal Finance Tracker 💰
+**📊 Personal Finance Tracker 💰
 
-##🌟 Overview
+🌟 Overview
 
 **Personal Finance Tracker is a Python-based CLI application designed to help users efficiently manage their personal finances. It allows users to track income, expenses, and savings, providing insights into their financial health.**
 
-
-##**🚀 Features**
+**🚀 Features****
 
 **✅ Add, edit, and delete income & expenses
 
